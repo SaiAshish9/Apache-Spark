@@ -1,3 +1,5 @@
 ```
-mvn clean install
+mvn clean 
+
+mvn install
 ```
